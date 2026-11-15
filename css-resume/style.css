@@ -314,7 +314,7 @@ ul {
 }
 
 .priority-card:nth-child(3)::before {
-  background-color: var(--navy);
+  background-color: var(--teal);
 }
 
 .card-grid > .card {
