@@ -310,7 +310,7 @@ ul {
 }
 
 .priority-card:nth-child(2)::before {
-  background-color: #c8ab7d;
+  background-color: var(--teal);
 }
 
 .priority-card:nth-child(3)::before {
